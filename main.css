@@ -1,0 +1,61 @@
+body {
+    background-color: #000000;
+    color: #4a3d54;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px 30px 10px 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: #66436c;
+    text-align: center;
+}
+
+h2 {
+    color: #b0a4e1;
+    text-align: center;
+}
+
+img.guitarheroqueen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 475px;
+    border: #f1ce9f 20px;
+    border-style: groove;
+}
+
+img.plunderchamp {
+    height: 375px;
+    border: #ffffff 20px;
+    width: 30%;
+    border-style: ridge;
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.spaghet {
+    text-align: center;
+    font-style: italic;
+    color: #FFFFFF;
+}
+
+.mvpoftheyear {
+    font-style: italic;
+    color: #FFFFFF;
+    width: 50%;
+    margin-left: 20px;
+}
